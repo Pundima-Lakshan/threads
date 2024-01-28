@@ -1,3 +1,5 @@
+# Modified to use as a minimal template
+
 <div align="center">
   <br />
     <a href="https://youtu.be/O5cmLDVTgAs?feature=shared" target="_blank">
